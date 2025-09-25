@@ -31,5 +31,5 @@ It loads data, preprocesses it, generates statistics, creates visualizations, an
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/your-username/AI-Data-Analyst-Agent.git
+git clone https://github.com/niyatiUnhex/AI-Data-Analyst-Agent.git
 cd AI-Data-Analyst-Agent
